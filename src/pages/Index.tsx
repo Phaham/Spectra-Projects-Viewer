@@ -47,7 +47,7 @@ const projects: Project[] = [
     id: "5",
     title: "Track Your Workout",
     description: "A workout tracking platform where you can track your workouts around the world. Features an interactive map interface using the Leaflet library.",
-    image: "https://unsplash.com/illustrations/a-man-is-doing-exercises-with-a-barbell-kgFDNut2H8k?q=80&w=2070&auto=format&fit=crop",
+    image: "https://plus.unsplash.com/premium_vector-1720622697702-615a7cb1cdc2?q=80&w=1800&auto=format&fit=crop",
     link: "https://trackworkouts.netlify.app/",
     codeLink: "https://github.com/Phaham/Mapty",
     technologies: ["HTML", "CSS", "JavaScript", "Leaflet"],
