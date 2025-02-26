@@ -28,6 +28,9 @@ export const Footer = () => {
             href="mailto:phahamkhan17@gmail.com"
             className="text-soft-text transition-colors duration-200 hover:text-foreground"
           >
+              <span className="absolute left-1/2 top-full mt-1 -translate-x-1/2 whitespace-nowrap rounded-md bg-white px-2 py-1 text-black text-sm opacity-0 transition-opacity duration-200 group-hover:opacity-100">
+                phahamkhan17@gmail.com
+             </span>
             <Mail className="h-6 w-6" />
             <span className="sr-only">Email</span>
           </a>
